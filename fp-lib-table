@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "Telemetry")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+  (lib (name "Logos")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/Logos.pretty")(options "")(descr ""))
+  (lib (name "molexMicrofit_PUTM_Libary")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/molexMicrofit_PUTM_Libary.pretty")(options "")(descr ""))
+  (lib (name "RM85V7")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/RM85V7.pretty")(options "")(descr ""))
+  (lib (name "Connector 4x1")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/Connector 4x1.pretty")(options "")(descr ""))
+  (lib (name "VN9D30Q100F")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/VN9D30Q100F.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "AS222-35PN-933C")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/AS222-35PN-933C.pretty")(options "")(descr ""))
+  (lib (name "TE_AS-16-35_55pin")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/TE_AS-16-35_55pin.pretty")(options "")(descr ""))
+  (lib (name "Autosport")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/Autosport.pretty")(options "")(descr ""))
+  (lib (name "PUTM_Kicad_FOOTPRINTS")(type "KiCad")(uri "/home/adam/Projects/PUTM/PUTM_Kicad_Library/FOOTPRINTS/PUTM_Kicad_FOOTPRINTS.pretty")(options "")(descr ""))
+)
