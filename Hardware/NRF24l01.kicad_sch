@@ -2037,7 +2037,7 @@
     (uuid cf5dca1b-4268-4ad7-bb29-15ca806b1b01)
     (property "Reference" "FL1" (id 0) (at 243.84 77.47 0))
     (property "Value" "2450BP14D0100T" (id 1) (at 243.84 80.01 0))
-    (property "Footprint" "2450BP14D0100T" (id 2) (at 234.95 78.74 0)
+    (property "Footprint" "Telemetry:2450BP14D0100T" (id 2) (at 234.95 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://componentsearchengine.com/Datasheets/1/2450BP14D0100T.pdf" (id 3) (at 234.95 81.28 0)
